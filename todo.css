@@ -1,0 +1,9 @@
+*{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+li.completed {
+    text-decoration: line-through;
+    color: gray;
+}
